@@ -1,0 +1,6 @@
+--- Resultados da Validação Cruzada K-Fold ---
+R² (média): 0.6149
+RMSE (média): 5.8435
+MAE (média): 3.5021
+MAPE (média): -45.09%
+Correlação (média): 0.7841

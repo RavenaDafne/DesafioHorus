@@ -1,0 +1,7 @@
+--- Análise Completa da Rota ---
+Melhor Rota Encontrada:
+sao paulo -> maravilhas -> barao de cocais -> butia -> sao sebastiao do rio verde -> garrafao do norte -> quatituba -> coronel joao pessoa -> lindoia do sul -> vicosa -> satiro dias -> taquarucu do sul
+Distância Total da Melhor Rota: 13666.28 km
+Peso Total da Carga: 100.00 kg
+Volume Total da Carga: 958626.00 cm³
+Tempo de Execução do Algoritmo: 0:00:00.920896
